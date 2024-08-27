@@ -2,7 +2,7 @@
   "name": "rayblair/fetch-php",
   "description": "A functional way to do HTTP Requests in PHP",
   "type": "library",
-  "license": "MIT",
+  "license": "GNU GPLv3",
   "authors": [
     {
       "name": "Ray Blair",

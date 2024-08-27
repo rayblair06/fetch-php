@@ -1,9 +1,13 @@
 # Fetch-PHP
 
+<div align="center">
+
 ![License](https://img.shields.io/github/license/rayblair06/fetch-php)
 ![Issues](https://img.shields.io/github/issues/rayblair06/fetch-php)
 ![Forks](https://img.shields.io/github/forks/rayblair06/fetch-php)
 ![Stars](https://img.shields.io/github/stars/rayblair06/fetch-php)
+
+</div>
 
 ## Table of Contents
 
@@ -87,7 +91,7 @@ Alternatively, check out the issues tab for tasks that need to be done.
 
 ## License
 
-Distributed under the MIT License. See `LICENSE.txt` for more information.
+Distributed under the GNU GPLv3 License. See `LICENSE` for more information.
 
 ## Contact
 
