@@ -1,0 +1,18 @@
+{
+  "name": "rayblair/fetch-php",
+  "description": "A functional way to do HTTP Requests in PHP",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ray Blair",
+      "email": "rayblair06@hotmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "files": [
+      "src/main.php"
+    ]
+  }
+}
